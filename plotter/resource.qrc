@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="imag">
+    <file>clean.png</file>
+    <file>fft.png</file>
+    <file>complex_button.png</file>
+    <file>real_button.png</file>
+    <file>graph_pic.png</file>
+    <file>plot.png</file>
+    <file>read_file_2.png</file>
+    <file>done.png</file>
+    <file>plot_icon.png</file>
+    <file>read_file.png</file>
+    <file>sine_wave.jpg</file>
+    <file>icon-waveform.png</file>
+    <file>open_file.png</file>
+    <file>settings.png</file>
+    <file>quit.png</file>
+  </qresource>
+</RCC>
